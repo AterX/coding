@@ -201,8 +201,9 @@ export function HeroSection() {
                   >
                     <span className="text-muted-foreground">5</span>
                     <span className="code-function">build</span><span className="text-foreground">:</span>
-                    <span className="text-foreground">() =></span>
+                    <span className="text-foreground">() =&gt;</span>
                     <span className="code-string">"amazing projects"</span>
+                    <span className="text-foreground">;</span>
                   </motion.div>
                   
                   <motion.div 
